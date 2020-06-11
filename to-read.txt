@@ -1,0 +1,7 @@
+1. relative and absolute path :  https://www.keycdn.com/blog/relative-path
+
+2. difference between block, inline-block elements
+
+3. position: absolute in css
+
+4. responsive: https://www.lifewire.com/how-do-you-write-css-media-queries-3469990
